@@ -36,5 +36,5 @@ while True:
         cv2.putText(img, f'LIVRE: {open}/69', (95, 45), cv2.FONT_HERSHEY_SIMPLEX, 1.5, (255,255,255), 5)
 
     cv2.imshow('Video', img)
-    cv2.imshow('Video Th', imgDil)
+    # cv2.imshow('Video Th', imgDil)
     cv2.waitKey(10)
