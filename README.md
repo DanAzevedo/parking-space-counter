@@ -32,3 +32,7 @@ As a strategy, we will map each of these parking space's and apply some techniqu
 - `Pickle`
 
 > <h3>Contribuidores/Contribuitors</h3>
+
+![octocat-1664896475177 (2)](https://user-images.githubusercontent.com/60473748/193859722-6fef2b23-a921-4c41-a600-487de23176b8.png)
+<img src="https://avatars.githubusercontent.com/u/60473748?s=400&u=dde6f4919a91bc1d5c33737be4259f845a0ee553&v=4" width=250><br><sub>Daniel Azevedo</sub>
+
