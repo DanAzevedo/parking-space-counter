@@ -26,10 +26,10 @@ As a strategy, we will map each of these parking space's and apply some techniqu
 
 > <h3>✔️Tecnologias utilizadas/Technologies used</h3>
 
-- `Python 3.9`
-- `OpenCV`
-- `NumPy`
-- `Pickle`
+- [Python 3.9](https://www.python.org/)
+- [OpenCV](https://opencv.org/)
+- [NumPy](https://numpy.org/)
+- [Pickle](https://docs.python.org/3/library/pickle.html)
 
 > <h3>Contribuidores/Contribuitors</h3>
 
